@@ -1,5 +1,5 @@
 Job Hunter
-====
+
 
 Application developed to scrape and apply for jobs from the following sources:
 - www.indeed.com
