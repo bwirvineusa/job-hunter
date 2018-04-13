@@ -154,8 +154,7 @@ GEM
     railties (4.2.5.1)
       actionpack (= 4.2.5.1)
       activesupport (= 4.2.5.1)
-      rake (>= 0.8.7)
-      thor (>= 0.18.1, < 2.0)
+       thor (>= 0.18.1, < 2.0)
     gem 'rake', '~> 12.3', '>= 12.3.1'
     rdoc (4.2.2)
       json (~> 1.4)
